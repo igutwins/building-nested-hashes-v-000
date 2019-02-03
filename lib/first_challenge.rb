@@ -1,6 +1,6 @@
 def first_challenge
    epic_tragedy = {
-     "Montagues" => {
+     :montague => {
        "Patriarch" => {
           name: "Lord Montague",
           age: 53,
