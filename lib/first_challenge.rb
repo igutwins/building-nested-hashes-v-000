@@ -27,7 +27,7 @@ def first_challenge
          }
        }
      }
-     "Capulets" => {
+     :capulet => {
 
      }
    }
